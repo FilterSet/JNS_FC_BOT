@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/vloggerdeven/vellachilaano",
-    "repository": "https://github.com/vloggerdeven/vellachilaano",
+    "website": "https://github.com/JNSBOT/JNS_FC_BOT",
+    "repository": "https://github.com/JNSBOT/JNS_FC_BOT",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -88,8 +88,8 @@
             "required": false
         },
         "REDIRECT_TO":{
-            "description": "Username of the channel without '@' to send files and redirect users to. Deafults to 0 (no redirect).",
-            "value": "oKda",
+            "description": "Deafults to 0 (no redirect). Set 'okda' for redirect",
+            "value": "0",
             "required": false
         }
     },
