@@ -12,20 +12,16 @@
 - [x] IMDB search
 - [x] Pm File search
 - [x] Inline Search
-- [x] Single Start pic
 - [x] ids and User info 
 - [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
 - [x] Spelling Check Feature
 - [x] File Store
 - [x] Carbon
-- [x] Json
-- [x] Sticker id
-- [x] Lyrics , Song
 - [x] TTS
 - [x] Redirect Chat
-- [x] Covid
-- [x] Country info
 - [x] Totally Customisable Bot
+- [x] delete all messages 
+- [x] stickers used in all functions
 
 
 𝙏𝙃𝙀𝙍𝙀 𝙎𝙊𝙈𝙀 𝘽𝙐𝙂𝙎 , 𝙁𝙊𝙍𝙆 𝘼𝙉𝘿 𝘿𝙀𝙋𝙇𝙊𝙔 𝙁𝙊𝙍 𝙉𝙊𝙒. 𝙒𝙄𝙇𝙇 𝘽𝙀 𝙁𝙄𝙓𝙀𝘿 🤧
