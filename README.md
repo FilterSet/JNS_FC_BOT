@@ -1,4 +1,4 @@
-<h1>𝙏𝙊𝙑𝙄𝙉𝙊 𝘽𝙊𝙏
+<h1>JNS_FC_BOT
 
 
 ## Features
@@ -27,9 +27,6 @@
 - [x] Country info
 - [x] Totally Customisable Bot
 
-## 𝗠𝗨𝗦𝗧 𝗗𝗢
-
-𝘽𝙀𝙁𝙊𝙍𝙀 𝘿𝙀𝙋𝙇𝙊𝙔 𝙔𝙊𝙐 𝙈𝙐𝙎𝙏 𝙀𝘿𝙄𝙏 𝙇𝙄𝙉𝙆 𝙄𝙉 [𝙏𝙃𝙄𝙎 𝙇𝙄𝙉𝙀](https://github.com/DKBOTx/TovinoBotV3/blob/8a258fb9e2c92fdb8e78b465642e18f9f47b6dce/plugins/pm_filter.py#L444) 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙍𝙀𝘿𝙄𝙍𝙀𝘾𝙏 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙇𝙄𝙉𝙆 . 𝙊𝙏𝙃𝙀𝙍𝙒𝙄𝙎𝙀 𝙔𝙊𝙐 𝘾𝘼𝙉𝙏 𝙏𝘼𝙆𝙀 𝙁𝙄𝙇𝙀𝙎 𝙁𝙍𝙊𝙈 𝘾𝙃𝘼𝙉𝙉𝙀𝙇
 
 𝙏𝙃𝙀𝙍𝙀 𝙎𝙊𝙈𝙀 𝘽𝙐𝙂𝙎 , 𝙁𝙊𝙍𝙆 𝘼𝙉𝘿 𝘿𝙀𝙋𝙇𝙊𝙔 𝙁𝙊𝙍 𝙉𝙊𝙒. 𝙒𝙄𝙇𝙇 𝘽𝙀 𝙁𝙄𝙓𝙀𝘿 🤧
 
@@ -64,7 +61,7 @@
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/DKBOTx/TovinoBotV3
+git clone https://github.com/JNSBOT/JNS_FC_BOT
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -106,18 +103,18 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 • /batch - to create link for multiple posts
 • /link - to create link for one post
+• /invite - to get bot working group links
 ```
 ## Support
-[𝘿𝙆_𝘽𝙊𝙏𝙭](https://telegram.dog/dk_botx)
+[JNS BOTS](https://telegram.dog/JNS_FC_BOTS)
 
 ## Bot
 
-[𝙏𝙤𝙫𝙞𝙣𝙤 𝘽𝙤𝙩](https://telegram.dog/filesearchxbot)
-
-## Credits 
-* [𝘉𝘈𝘚𝘌 𝘙𝘌𝘗𝘖 𝘜𝘚𝘌𝘋](https://github.com/EvamariaTG/EvaMaria)
+[JNS_FC_BOT](https://telegram.dog/JNS_FC_BOT)
 
 ## Thanks to 
+ - Thanks To DK For this Awesome ideas [dk bots](https://telegram.dog/dk_botx)
+ - Thanks To TEAM EvaMaria For this Awesome [𝘉𝘈𝘚𝘌 𝘙𝘌𝘗𝘖 𝘜𝘚𝘌𝘋](https://github.com/EvamariaTG/EvaMaria)
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
  - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
  - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
@@ -125,7 +122,7 @@ python3 bot.py
 
 ### Note
 
-[𝘊𝘳𝘦𝘢𝘵𝘰𝘳](https://telegram.dog/aboutme_dk)
+[𝘊𝘳𝘦𝘢𝘵𝘰𝘳](https://telegram.dog/jintons)
 
 Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo won't make you a Developer.
 Fork the repo and edit as per your needs. 𝘛𝘩𝘦𝘴𝘦 𝘢𝘳𝘦 𝘭𝘪𝘯𝘦𝘴 𝘧𝘳𝘰𝘮 𝘦𝘷𝘢 𝘥𝘦𝘷𝘴 , 𝘪𝘵𝘴 𝘳𝘪𝘨𝘩𝘵 𝘢𝘣𝘰𝘶𝘵 𝘮𝘦 . 
