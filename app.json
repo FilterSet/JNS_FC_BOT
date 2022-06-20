@@ -71,12 +71,7 @@
             "description": "Time in seconds to delete the Messages. Defaults to 300 (5 minutes).",
             "value": "300",
             "required": false
-        },
-        "UPSTREAM_REPO":{
-            "description": "DONTTTT CHANGE THIS",
-            "value": "https://github.com/JNSBOT/JNS_FC_BOT",
-            "required": false
-        },        
+        },       
         "START_IMAGE_URL":{
             "description": "Start image URL. Defaults to https://telegra.ph/file/ba82cac4dd4e79261c3b4.jpg",
             "value": "https://telegra.ph/file/ba82cac4dd4e79261c3b4.jpg",
