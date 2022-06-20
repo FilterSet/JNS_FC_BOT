@@ -21,7 +21,7 @@
 - [x] Redirect Chat
 - [x] Totally Customisable Bot
 - [x] delete all messages 
-- [x] stickers used in all functions
+- [x] stickers used in all COMMANDS
 
 
 𝙏𝙃𝙀𝙍𝙀 𝙎𝙊𝙈𝙀 𝘽𝙐𝙂𝙎 , 𝙁𝙊𝙍𝙆 𝘼𝙉𝘿 𝘿𝙀𝙋𝙇𝙊𝙔 𝙁𝙊𝙍 𝙉𝙊𝙒. 𝙒𝙄𝙇𝙇 𝘽𝙀 𝙁𝙄𝙓𝙀𝘿 🤧
